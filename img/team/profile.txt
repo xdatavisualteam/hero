@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 name: Janik Kling
 sex: Male
 country: Germany
@@ -7,14 +6,4 @@ address: Landsberger Allee 106, 10369 Berlin, Germany
 university: Heidelberg University: built in 1905
 TEL: +49 30 4531210
 company: Streamday Gmbh
-=======
-name: Janik Kling
-sex: Male
-country: Germany
-birthday: 1990.11.12
-address: Landsberger Allee 106, 10369 Berlin, Germany
-university: Heidelberg University: built in 1905
-TEL: +49 30 4531210
-company: Streamday Gmbh
->>>>>>> 0169a135865269890a4fd71308aec8c19659965e
 	address: Riehlern Str.21
