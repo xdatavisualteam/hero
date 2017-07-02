@@ -363,7 +363,7 @@
 									data-elementdelay="0.1"
 									data-endelementdelay="0.1"
 									data-endspeed="300"
-									style="z-index: 3; max-width: auto; max-height: auto; white-space: nowrap;">Web
+									style="z-index: 3; max-width: auto; max-height: auto; white-space: nowrap;">Effect
 								</div>
 
 								<!-- LAYER NR. 3 -->
@@ -378,7 +378,7 @@
 									data-elementdelay="0.1"
 									data-endelementdelay="0.1"
 									data-endspeed="300"
-									style="z-index: 4; max-width: auto; max-height: auto; white-space: nowrap;">Beautiful
+									style="z-index: 4; max-width: auto; max-height: auto; white-space: nowrap;">Rendering
 								</div>
 
 								<!-- LAYER NR. 4 -->
@@ -393,7 +393,7 @@
 									data-elementdelay="0.1"
 									data-endelementdelay="0.1"
 									data-endspeed="300"
-									style="z-index: 5; max-width: auto; max-height: auto; white-space: nowrap;">Development!
+									style="z-index: 5; max-width: auto; max-height: auto; white-space: nowrap;">Improved!
 								</div>
 
 
