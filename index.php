@@ -791,7 +791,7 @@
 							<div class="inner">
 								<h5>Janik Kling</h5>
 								<p class="subtitle">ASP.NET Expert</p>
-								<a href="profile.html?0"><div class="avatar"><img src="img/team/6.jpg" alt="" class="img-responsive" />
+								<a href="profile.html?0"><div class="avatar"><img src="img/team/4.jpg" alt="" class="img-responsive" />
 								</div></a>
 							</div>
 						</div>
@@ -801,7 +801,7 @@
 							<div class="inner">
 								<h5>Jin Lin</h5>
 								<p class="subtitle">D3 Expert</p>
-								<div class="avatar"><img src="img/team/5.jpg" alt="" class="img-responsive" />
+								<div class="avatar"><img src="img/team/1.jpg" alt="" class="img-responsive" />
 								</div>
 							</div>
 						</div>
@@ -811,7 +811,7 @@
 							<div class="inner">
 								<h5>Sadi Orlaf</h5>
 								<p class="subtitle">Angular Expert</p>
-								<div class="avatar"><img src="img/team/5.jpg" alt="" class="img-responsive" />
+								<div class="avatar"><img src="img/team/2.jpg" alt="" class="img-responsive" />
 								</div>
 							</div>
 						</div>
@@ -821,7 +821,7 @@
 							<div class="inner">
 								<h5>Tony Shark</h5>
 								<p class="subtitle">React Expert</p>
-								<div class="avatar"><img src="img/team/6.jpg" alt="" class="img-responsive" />
+								<div class="avatar"><img src="img/team/3.jpg" alt="" class="img-responsive" />
 								</div>
 							</div>
 						</div>
@@ -836,7 +836,7 @@
 							<div class="inner">
 								<h5>Janik Kling</h5>
 								<p class="subtitle"></p>
-								<div class="avatar"><img src="img/team/6.jpg" alt="" class="img-responsive" />
+								<div class="avatar"><img src="img/team/1.jpg" alt="" class="img-responsive" />
 								</div>
 							</div>
 						</div>
@@ -846,7 +846,7 @@
 							<div class="inner">
 								<h5>Jin Lin</h5>
 								<p class="subtitle"></p>
-								<div class="avatar"><img src="img/team/5.jpg" alt="" class="img-responsive" />
+								<div class="avatar"><img src="img/team/2.jpg" alt="" class="img-responsive" />
 								</div>
 							</div>
 						</div>
@@ -856,7 +856,7 @@
 							<div class="inner">
 								<h5>Sadi Orlaf</h5>
 								<p class="subtitle"></p>
-								<div class="avatar"><img src="img/team/5.jpg" alt="" class="img-responsive" />
+								<div class="avatar"><img src="img/team/3.jpg" alt="" class="img-responsive" />
 								</div>
 							</div>
 						</div>
@@ -866,7 +866,7 @@
 							<div class="inner">
 								<h5>Tony Shark</h5>
 								<p class="subtitle"></p>
-								<div class="avatar"><img src="img/team/6.jpg" alt="" class="img-responsive" />
+								<div class="avatar"><img src="img/team/4.jpg" alt="" class="img-responsive" />
 								</div>
 							</div>
 						</div>
